@@ -739,7 +739,7 @@ img {
 @media only screen and (min-width: 1158px) {
   .footer-container {
     align-items: baseline;
-    padding-left: 15px;
+    padding-left: 40px;
     column-gap: 0;
   }
 }
